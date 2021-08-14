@@ -84,3 +84,5 @@ if the response not return refresh_token, back to step 2 and retry.
 ## 💸 Donations
 
 Feel free to use the GitHub Sponsor button to donate towards my work if you think this project is helpful. 🤗
+
+[![spotify-box](https://github.com/izumiikezaki/spotify-box/actions/workflows/spotify-box.yml/badge.svg?branch=main)](https://github.com/izumiikezaki/spotify-box/actions/workflows/spotify-box.yml)
